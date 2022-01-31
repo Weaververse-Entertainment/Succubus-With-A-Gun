@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MSX_Rocket_Launcher.ogg-aa3eca54a94a963ad18e03d5b276d158.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/sfx/MSX_Rocket_Launcher.ogg"
+dest_files=[ "res://.import/MSX_Rocket_Launcher.ogg-aa3eca54a94a963ad18e03d5b276d158.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
